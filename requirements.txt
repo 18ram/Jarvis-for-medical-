@@ -1,0 +1,18 @@
+# LiveKit Agent Core
+livekit-agents
+python-dotenv
+
+# Langchain Core and Community tools
+langchain
+langchain-core
+langchain-community
+
+# Search + Tools
+duckduckgo-search
+requests
+openai
+yagmail
+
+# Optional: audio
+pyaudio
+sounddevice
