@@ -1,14 +1,14 @@
 # prompt.py
-
+#this page is  completely custamizable according to your wish 
 # Personal info (Jarvis will use this context)
 user_profile = {
-    "name": "shri ram",
+    "name": "your name",
     "nickname": "Boss",
-    "crush_name": "bhanu sai",
-    "city": "Bangalore",
-    "favorite_color": "Electric Blue",
-    "dream": "To build an AI like Iron Man's Jarvis",
-    "role": "Computer Science Student",
+    "crush_name": "your crush name(optional)",
+    "city": "your city",
+    "favorite_color": "your fav Blue",
+    "dream": "To build an AI like Iron Man's Jarvis(you can change)",
+    "role": "Computer Science Student(you can change)",
     # 🔹 Added some dummy health info (not too serious, just context)
     "health_conditions": ["Occasional Low BP", "Mild Seasonal Allergies"],
     "medications": {
